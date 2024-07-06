@@ -1,0 +1,12 @@
+C:\Users\emir\source\repos\MeowOS\bin\Debug\net6.0\MeowOS.deps.json
+C:\Users\emir\source\repos\MeowOS\bin\Debug\net6.0\MeowOS.dll
+C:\Users\emir\source\repos\MeowOS\bin\Debug\net6.0\MeowOS.pdb
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.csproj.AssemblyReference.cache
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.AssemblyInfoInputs.cache
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.AssemblyInfo.cs
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.csproj.CoreCompileInputs.cache
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.dll
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\refint\MeowOS.dll
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\MeowOS.pdb
+C:\Users\emir\source\repos\MeowOS\obj\Debug\net6.0\ref\MeowOS.dll
